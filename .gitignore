@@ -1,0 +1,5 @@
+# Claude Code local settings — private to your machine, never upload to GitHub
+.claude/settings.local.json
+
+# Mac system file — auto-created by macOS, not needed in repos
+.DS_Store
